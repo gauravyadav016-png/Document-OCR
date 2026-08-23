@@ -1,0 +1,4 @@
+mrz
+opencv-python
+pytesseract
+tesseract
